@@ -1,6 +1,6 @@
 # BADA-7105
 
-![Homework 01 – Analysis of customer behaviors](https://github.com/chetninphat/BADS7105-CRM-Analytics-and-Intelligence/tree/main/Homework%2001)
+[Homework 01 – Analysis of customer behaviors](https://github.com/chetninphat/BADS7105-CRM-Analytics-and-Intelligence/tree/main/Homework%2001)
 
 Homework 02 – Jobs to be done
 
