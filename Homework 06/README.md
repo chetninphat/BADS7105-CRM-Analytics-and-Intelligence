@@ -18,6 +18,6 @@
 
 
 
-## 2. Collecting data throughout Customer Journey
+## 3. Collecting data throughout Customer Journey
 
 ![](https://github.com/chetninphat/BADS7105-CRM-Analytics-and-Intelligence/blob/main/Homework%2006/Collecting%20data%20throughout%20Customer%20Journey.jpg)
