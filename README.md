@@ -6,11 +6,11 @@
 
 [Homework 03 – Value Proposition](https://github.com/chetninphat/BADS7105-CRM-Analytics-and-Intelligence/tree/main/Homework%2003)
 
-[Homework 04 – Customer Journey](https://github.com/chetninphat/BADS7105-CRM-Analytics-and-Intelligence/tree/main/Homework%2006)
+[Homework 04 – Customer Journey](https://github.com/chetninphat/BADS7105-CRM-Analytics-and-Intelligence/tree/main/Homework%2004)
 
 Homework 05 – CLV Dashboard
 
-Homework 06 – Customer Segmentation
+[Homework 06 – Customer Segmentation](https://github.com/chetninphat/BADS7105-CRM-Analytics-and-Intelligence/tree/main/Homework%2006)
 
 Homework 07 – Product Recommendation
 
