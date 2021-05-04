@@ -16,7 +16,7 @@ Homework 07 – Product Recommendation
 
 Homework 08 – Campaign Response Model
 
-Homework 09 – A/B Testing
+[Homework 09 – A/B Testing](https://github.com/chetninphat/BADS7105-CRM-Analytics-and-Intelligence/tree/main/Homework%2009)
 
 Homework 10 – Customer Movement Analysis
 
