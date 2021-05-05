@@ -20,4 +20,4 @@ Homework 08 – Campaign Response Model
 
 Homework 10 – Customer Movement Analysis
 
-Homework 11 - Voice of Customer
+[Homework 11 - Voice of Customer](https://github.com/chetninphat/BADS7105-CRM-Analytics-and-Intelligence/tree/main/Homework%2011)
