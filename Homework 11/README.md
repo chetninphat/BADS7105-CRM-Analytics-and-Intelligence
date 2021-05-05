@@ -6,3 +6,7 @@
  
  แบ่งครั้งที่ 2 เหลือ 4 Topic เเต่เลข 4 กับ 2 ทับกันน่าจะเป็น Topic เดียวกัน
  ![](https://github.com/chetninphat/BADS7105-CRM-Analytics-and-Intelligence/blob/main/Homework%2011/Topic_Modeling_4Topic.jpg)
+ 
+ 
+ แบ่งครั้งที่ 3 เหลือ 3 Topic เห็นเล้วน่าจะเเตกต่างกันเเต่ละ Topic
+ ![](https://github.com/chetninphat/BADS7105-CRM-Analytics-and-Intelligence/blob/main/Homework%2011/Topic_Modeling_3Topic.jpg)
