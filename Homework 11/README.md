@@ -10,3 +10,23 @@
  
  แบ่งครั้งที่ 3 เหลือ 3 Topic เห็นเล้วน่าจะเเตกต่างกันเเต่ละ Topic
  ![](https://github.com/chetninphat/BADS7105-CRM-Analytics-and-Intelligence/blob/main/Homework%2011/Topic_Modeling_3Topic.jpg)
+ 
+ 
+ 
+ 
+ 
+ เเต่พอมาดูคำในเเต่ละ Topic ดังรูป
+ 3.1
+ ![](https://github.com/chetninphat/BADS7105-CRM-Analytics-and-Intelligence/blob/main/Homework%2011/Topic_Modeling_3.1Topic.jpg)
+ 
+ 
+ 
+ 
+ 3.2
+ ![](https://github.com/chetninphat/BADS7105-CRM-Analytics-and-Intelligence/blob/main/Homework%2011/Topic_Modeling_3.2Topic.jpg)
+ 
+ 
+ 
+ 
+ 3.3
+ ![](https://github.com/chetninphat/BADS7105-CRM-Analytics-and-Intelligence/blob/main/Homework%2011/Topic_Modeling_3.3Topic.jpg)
