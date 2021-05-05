@@ -30,3 +30,13 @@
  
  3.3
  ![](https://github.com/chetninphat/BADS7105-CRM-Analytics-and-Intelligence/blob/main/Homework%2011/Topic_Modeling_3.3Topic.jpg)
+
+
+
+อาจะดูไม่ชัดเจนเลยดึงออกมาดูเป็นตาราง 10 คำเเรกเรียงจากมากสุดไปน้อยสุด ดูเเล้วไม่ค่อยต่างกันคือคำจะไปในทางเดียวกันเลยดูเพิ่มอีก10คำเป็น20คำ
+![](https://github.com/chetninphat/BADS7105-CRM-Analytics-and-Intelligence/blob/main/Homework%2011/TOPIC_10.jpg)
+
+
+20คำ สรุปเเล้วไม่ค่อยมีความต่างกันของ 3 topic เเต่ topic เเรกมีพูดถึงเนื้อ topic ที่2กับ3 ดูไม่ค่อยต่างกันเท่าไร โดยรวมของ Review เป็นเรื่องอาหารที่จะต้องนึงถึงเรื่องความอร่อย รสชาติดี เป็นพวก ของหวาน ชากาแฟ อาจะมีพูดเรื่องราคาด้วย
+![](https://github.com/chetninphat/BADS7105-CRM-Analytics-and-Intelligence/blob/main/Homework%2011/TOPIC_20.jpg)
+
