@@ -8,7 +8,7 @@
 
 [Homework 04 – Customer Journey](https://github.com/chetninphat/BADS7105-CRM-Analytics-and-Intelligence/tree/main/Homework%2004)
 
-Homework 05 – CLV Dashboard
+[Homework 05 – CLV Dashboard](https://github.com/chetninphat/BADS7105-CRM-Analytics-and-Intelligence/tree/main/Homework%2005)
 
 [Homework 06 – Customer Segmentation](https://github.com/chetninphat/BADS7105-CRM-Analytics-and-Intelligence/tree/main/Homework%2006)
 
