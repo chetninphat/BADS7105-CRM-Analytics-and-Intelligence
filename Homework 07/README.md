@@ -1,7 +1,7 @@
 ## Association Rules (Algorithm Apriori)
 __________________________________________________________
 RESULTS
-วัดประสิทธิภาพมี 2 ส่วน Confidence เละ ft 
+วัดประสิทธิภาพมี 2 ส่วน Confidence เละ ift 
 
 Confidence คือการแสดงความเชื่อมั่นของความสัมพันธ์ของ itemset 2 อย่าง
 คือ LHS(Left Hand Side) แสดงรูปแบบของ itemset ด้านซ้าย
