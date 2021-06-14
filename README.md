@@ -12,7 +12,7 @@
 
 [Homework 06 – Customer Segmentation](https://github.com/chetninphat/BADS7105-CRM-Analytics-and-Intelligence/tree/main/Homework%2006)
 
-Homework 07 – Product Recommendation
+[Homework 07 – Product Recommendation](https://github.com/chetninphat/BADS7105-CRM-Analytics-and-Intelligence/tree/main/Homework%2007)
 
 Homework 08 – Campaign Response Model
 
