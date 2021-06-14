@@ -1,5 +1,7 @@
 # BADA-7105
 
+Chetniphat Pongsrithong 6210422043
+
 [Homework 01 – Analysis of customer behaviors](https://github.com/chetninphat/BADS7105-CRM-Analytics-and-Intelligence/tree/main/Homework%2001)
 
 [Homework 02 – Jobs to be done](https://github.com/chetninphat/BADS7105-CRM-Analytics-and-Intelligence/tree/main/Homework%2002)
