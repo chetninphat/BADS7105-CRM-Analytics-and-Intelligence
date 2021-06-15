@@ -16,7 +16,7 @@ Chetniphat Pongsrithong 6210422043
 
 [Homework 07 – Product Recommendation](https://github.com/chetninphat/BADS7105-CRM-Analytics-and-Intelligence/tree/main/Homework%2007)
 
-Homework 08 – Campaign Response Model
+[Homework 08 – Campaign Response Model](https://github.com/chetninphat/BADS7105-CRM-Analytics-and-Intelligence/tree/main/Homework%2008)
 
 [Homework 09 – A/B Testing](https://github.com/chetninphat/BADS7105-CRM-Analytics-and-Intelligence/tree/main/Homework%2009)
 
