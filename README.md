@@ -20,7 +20,7 @@ Chetniphat Pongsrithong 6210422043
 
 [Homework 09 – A/B Testing](https://github.com/chetninphat/BADS7105-CRM-Analytics-and-Intelligence/tree/main/Homework%2009)
 
-Homework 10 – Customer Movement Analysis
+[Homework 10 – Customer Movement Analysis](https://github.com/chetninphat/BADS7105-CRM-Analytics-and-Intelligence/tree/main/Homework%2010)
 
 [Homework 11 - Voice of Customer](https://github.com/chetninphat/BADS7105-CRM-Analytics-and-Intelligence/tree/main/Homework%2011)
 
