@@ -1,1 +1,8 @@
-
+![](https://github.com/chetninphat/BADS7105-CRM-Analytics-and-Intelligence/blob/main/Homework%2012/HW12.1.png)
+![](https://github.com/chetninphat/BADS7105-CRM-Analytics-and-Intelligence/blob/main/Homework%2012/HW12.2.png)
+![](https://github.com/chetninphat/BADS7105-CRM-Analytics-and-Intelligence/blob/main/Homework%2012/HW12.3.png)
+![](https://github.com/chetninphat/BADS7105-CRM-Analytics-and-Intelligence/blob/main/Homework%2012/HW12.4.png)
+![](https://github.com/chetninphat/BADS7105-CRM-Analytics-and-Intelligence/blob/main/Homework%2012/HW12.5.png)
+![](https://github.com/chetninphat/BADS7105-CRM-Analytics-and-Intelligence/blob/main/Homework%2012/HW12.6.png)
+![](https://github.com/chetninphat/BADS7105-CRM-Analytics-and-Intelligence/blob/main/Homework%2012/HW12.7.png)
+![](https://github.com/chetninphat/BADS7105-CRM-Analytics-and-Intelligence/blob/main/Homework%2012/HW12.8.png)
