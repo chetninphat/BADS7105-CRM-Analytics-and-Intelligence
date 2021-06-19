@@ -24,4 +24,4 @@ Chetniphat Pongsrithong 6210422043
 
 [Homework 11 - Voice of Customer](https://github.com/chetninphat/BADS7105-CRM-Analytics-and-Intelligence/tree/main/Homework%2011)
 
-Homework 12 – Design Thinking
+[Homework 12 – Design Thinking](https://github.com/chetninphat/BADS7105-CRM-Analytics-and-Intelligence/tree/main/Homework%2012)
